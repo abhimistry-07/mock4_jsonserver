@@ -28,5 +28,59 @@
       "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
       "postedDate": "2023-06-01"
     }
+  ],
+  "users": [
+    {
+      "username": "mistryabhi02@gmail.com",
+      "userAvatar": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg",
+      "userEmail": "mistryabhi02@gmail.com",
+      "userPassword": "1234544",
+      "id": 1
+    },
+    {
+      "username": "john",
+      "userAvatar": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg",
+      "userEmail": "eve.holt@reqres.in",
+      "userPassword": "1234544",
+      "id": 2
+    },
+    {
+      "username": "john.doe",
+      "userAvatar": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg",
+      "userEmail": "mistryabhi02@gmail.com",
+      "userPassword": "1111",
+      "id": 3
+    },
+    {
+      "username": "john.doe",
+      "userAvatar": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg",
+      "userEmail": "mistryabhi02@gmail.com",
+      "userPassword": "1111",
+      "id": 4
+    },
+    {
+      "username": "john.doe",
+      "userAvatar": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg",
+      "userEmail": "mistryabhi02@gmail.com",
+      "userPassword": "1111",
+      "id": 5
+    },
+    {
+      "username": "john.doe",
+      "userAvatar": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg",
+      "userEmail": "mistryabhishek2000@gmail.com",
+      "userPassword": "1111",
+      "id": 6
+    }
+  ],
+  "forum": [
+    {
+      "username": "xbsbsdb",
+      "questionTitle": "xxfsb",
+      "questionDescription": "sdbsb",
+      "language": "Javascript",
+      "postedDate": "2023-08-18T19:41",
+      "id": 1
+    }
   ]
 }
